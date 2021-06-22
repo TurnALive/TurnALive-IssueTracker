@@ -2,7 +2,7 @@
 name: 运行状态异常、bug 反馈
 about: 服务器本体运行状态、插件错误、指令 异常 / 报错、行为异常 的反馈
 title: "[BUG]"
-labels: ''
+labels: bug
 assignees: ''
 
 ---
